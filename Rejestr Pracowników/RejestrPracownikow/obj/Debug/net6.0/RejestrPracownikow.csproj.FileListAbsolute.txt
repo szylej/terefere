@@ -1,0 +1,12 @@
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\RejestrPracownikow.csproj.AssemblyReference.cache
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\RejestrPracownikow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\RejestrPracownikow.AssemblyInfoInputs.cache
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\RejestrPracownikow.AssemblyInfo.cs
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\RejestrPracownikow.csproj.CoreCompileInputs.cache
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\bin\Debug\net6.0\RejestrPracownikow.deps.json
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\bin\Debug\net6.0\RejestrPracownikow.dll
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\bin\Debug\net6.0\RejestrPracownikow.pdb
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\RejestrPracownikow.dll
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\refint\RejestrPracownikow.dll
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\RejestrPracownikow.pdb
+C:\Users\Matiszor\Desktop\terefere-main\RejestrPracownikow\obj\Debug\net6.0\ref\RejestrPracownikow.dll
